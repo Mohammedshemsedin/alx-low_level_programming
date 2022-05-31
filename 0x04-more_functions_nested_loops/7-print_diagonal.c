@@ -1,7 +1,3 @@
-/*
-* Auth: Gbemi Jacob Adebayo
-*/
-
 #include "main.h"
 
 /**
